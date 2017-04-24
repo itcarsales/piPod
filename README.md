@@ -5,7 +5,7 @@ This program currently supports the GPIO of the Raspberry Pi B+
 
 It can be modified for all versions by changing the wiring and the 2 I/O lines of code, but future versions will include support and documentation for all pi versions.
 
-![board-thumb.jpg](https://bitbucket.org/repo/LEadny/images/3019258166-board-thumb.jpg) 
+![board-thumb.jpg](https://github.com/itcarsales/piPod/blob/master/board-thumb.jpg?raw=true) 
 
 - - - -
 
